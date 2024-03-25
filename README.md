@@ -42,6 +42,15 @@ Outras ferramentas foram usadas para criar as imagens e os layouts para o ebook.
  - Geração de imagens: Lexica.art, Leonardo AI, Midjourney
  - Edição e confecção do ebook: canva
 
+## Prompts
+
+     chatgpt você vai agir agora como um professor de programação em linguagem python.
+     Você vai escrever um ebook sobre flask elaborando 5 tópicos importantes sobre esse framework e explicar cada um deles.
+     {REGRAS}
+     > Crie um projeto em flask inspirado em futebol para explicar cada um dos tópicos, onde em cada tópico vá incrementando o projeto até completa-lo no fim.
+     > Use uma temática de futebol para explicar o framework
+
+
 ## Resultados
 O resultado pode ser consultado no link
 [Ebook](https://drive.google.com/file/d/1MsBsf4Mi3UrXaUxPBffYs1cmOEUKfRqs/view?usp=sharing)
