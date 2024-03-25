@@ -28,7 +28,7 @@ Nesse projeto foram usadas as seguintes IAS
 
 
 ## Resultado
-Os resultados podem ser conferidos no Artigo.
+Os resultados podem ser conferidos no [Artigo](https://github.com/Victor-Ribeiro-Acosta/Projetos-Usando-Chatgpt/blob/main/Artigo%20t%C3%A9cnico/Artigo.md).
 
 
 # Projeto **Criando um Ebook com Chatgpt**
