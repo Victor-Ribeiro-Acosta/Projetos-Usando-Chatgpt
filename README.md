@@ -45,3 +45,16 @@ Outras ferramentas foram usadas para criar as imagens e os layouts para o ebook.
 ## Resultados
 O resultado pode ser consultado no link
 [Ebook](https://drive.google.com/file/d/1MsBsf4Mi3UrXaUxPBffYs1cmOEUKfRqs/view?usp=sharing)
+
+
+# **Podcast Criado por IA**
+
+Nesse projeto usamos IAs para criar um podcast em formato de audio, o assunto do podcast foi Deep Learning.
+
+## IAs Usadas
+
+ - Para criação do roteiro e do título do podcast usamos o chatgpt
+ - Para transforar o roteiro escrito em audio usamos o ElevenLabs
+ - Usamos a ferramenta capcut para editar o áudio e a Lexica.art para criar a capa do podcast
+
+## Resultado
