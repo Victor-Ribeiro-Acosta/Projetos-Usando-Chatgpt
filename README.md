@@ -28,7 +28,7 @@ Nesse projeto foram usadas as seguintes IAS
 
 
 ## Resultado
-Os resultados podem ser conferidos no Artigo.
+Os resultados podem ser conferidos no [Artigo](https://github.com/Victor-Ribeiro-Acosta/Projetos-Usando-Chatgpt/blob/main/Artigo%20t%C3%A9cnico/Artigo.md).
 
 
 # Projeto **Criando um Ebook com Chatgpt**
@@ -41,6 +41,15 @@ Outras ferramentas foram usadas para criar as imagens e os layouts para o ebook.
  - Geração de texto: chatgpt
  - Geração de imagens: Lexica.art, Leonardo AI, Midjourney
  - Edição e confecção do ebook: canva
+
+## Prompts
+
+     chatgpt você vai agir agora como um professor de programação em linguagem python.
+     Você vai escrever um ebook sobre flask elaborando 5 tópicos importantes sobre esse framework e explicar cada um deles.
+     {REGRAS}
+     > Crie um projeto em flask inspirado em futebol para explicar cada um dos tópicos, onde em cada tópico vá incrementando o projeto até completa-lo no fim.
+     > Use uma temática de futebol para explicar o framework
+
 
 ## Resultados
 O resultado pode ser consultado no link
