@@ -67,3 +67,5 @@ Nesse projeto usamos IAs para criar um podcast em formato de audio, o assunto do
  - Usamos a ferramenta capcut para editar o áudio e a Lexica.art para criar a capa do podcast
 
 ## Resultado
+
+[Encontre o podcast aqui](https://github.com/Victor-Ribeiro-Acosta/Projetos-Usando-Chatgpt/tree/main/Podcast)
